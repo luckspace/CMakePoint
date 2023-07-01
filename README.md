@@ -3,6 +3,7 @@
 ## Build
 | [linux-ubuntu][ubuntu-link] |
 | --------------------------- |
-| ![ubuntu-badge]             |
+| ![ubuntu_badge]             |
 
-![ubuntu_badge](https://github.com/iHaibaraAi/CMakePoint/workflows/cmake.yml/badge.svg)
+[ubuntu-link]: https://github.com/iHaibaraAi/CMakePoint/actions/workflows/cmake.yml
+[ubuntu_badge]: https://github.com/iHaibaraAi/CMakePoint/workflows/CMake/badge.svg
