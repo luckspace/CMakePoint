@@ -5,3 +5,4 @@
 | --------------------------- |
 | ![ubuntu-badge]             |
 
+![ubuntu_badge](https://github.com/iHaibaraAi/CMakePoint/workflows/cmake.yml/badge.svg)
