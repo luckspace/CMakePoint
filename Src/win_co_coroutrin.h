@@ -14,6 +14,10 @@ namespace luck {
 			sta_scope = Scope;
 		}
 
+		~LuckTempObj() {
+
+		}
+
 		const ::std::string& Scope() const { return sta_scope; }
 
 	protected:
