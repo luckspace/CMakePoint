@@ -20,7 +20,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
       with:
-        path: C:\
+        path: ~/
         key: ${{github.worlspace}}
 
     - name: Configure CMake
