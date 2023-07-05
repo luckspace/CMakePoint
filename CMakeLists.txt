@@ -1,4 +1,7 @@
 
+set(EXECUTABLE_OUTPUT_PATH ${CMAKE_CACHEFILE_DIR})
+set(LIBRARY_OUTPUT_PATH ${CMAKE_CACHEFILE_DIR})
+
 enable_testing()
 
 add_subdirectory(Src)
