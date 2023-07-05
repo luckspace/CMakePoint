@@ -1,5 +1,5 @@
 
-set(EXECUTABLE_OUTPUT_PATH ${CMAKE_CACHEFILE_DIR})
+set(EXECUTABLE_OUTPUT_PATH ${CMAKE_SOURCE_DIR}/storage/build)
 
 file(GLOB_RECURSE all_example *.cpp)
 foreach (one_example ${all_example})
